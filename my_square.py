@@ -5,6 +5,9 @@ def my_square(y):
     return(y ** 2)
 
 def my_square2(x):
+    """
+    adding some docs
+    """
     return(x * 2)
 
 print(my_square(52))
