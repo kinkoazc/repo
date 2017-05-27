@@ -1,7 +1,7 @@
-def my_square(x):
+def my_square(z):
     """
     returns the square of a number
     """
-    return(x ** 2)
+    return(z * z)
 
-print(my_square(5))
+print(my_square(55))
