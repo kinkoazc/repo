@@ -1,6 +1,6 @@
 def my_square(x):
     """
-    returns the square
+    returns the square of a number
     """
     return(x ** 2)
 
